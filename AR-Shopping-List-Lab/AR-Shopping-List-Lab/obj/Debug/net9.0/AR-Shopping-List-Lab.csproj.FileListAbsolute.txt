@@ -1,0 +1,15 @@
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/bin/Debug/net9.0/AR-Shopping-List-Lab
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/bin/Debug/net9.0/AR-Shopping-List-Lab.deps.json
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/bin/Debug/net9.0/AR-Shopping-List-Lab.runtimeconfig.json
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/bin/Debug/net9.0/AR-Shopping-List-Lab.dll
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/bin/Debug/net9.0/AR-Shopping-List-Lab.pdb
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.AssemblyInfoInputs.cache
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.AssemblyInfo.cs
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.csproj.CoreCompileInputs.cache
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.sourcelink.json
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.dll
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/refint/AR-Shopping-List-Lab.dll
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.pdb
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/AR-Shopping-List-Lab.genruntimeconfig.cache
+/Users/amberross/workspace/classwork/Unit-3-Collections/AR-Shopping-List-Lab/AR-Shopping-List-Lab/obj/Debug/net9.0/ref/AR-Shopping-List-Lab.dll
