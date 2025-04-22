@@ -1,8 +1,3 @@
-﻿
-   
-   using System;  
-using System.Collections.Generic;
-
 namespace ShoppingListProject
 {
     class Program
